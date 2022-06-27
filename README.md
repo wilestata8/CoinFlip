@@ -10,6 +10,6 @@ A remake of heads or tails, make your selection, flip the coin and see the resul
 
 ## How This Project was Created
 
-HTML, CSS, and  JavaScript, 
+HTML, CSS, and  JavaScript, Node.js
 
 
